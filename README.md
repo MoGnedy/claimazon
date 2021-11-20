@@ -5,5 +5,5 @@ an application that lists all the
 products and also shows the details of a selected product.
 
 ## To Run the app
-
-### `yarn start`
+- `yarn install`
+- `yarn start`
